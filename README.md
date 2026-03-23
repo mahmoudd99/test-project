@@ -1,0 +1,1 @@
+A pixel-perfect frontend landing page built to demonstrate mastery over modern CSS layouts. Fokir focuses on sleek transitions, interactive components, and a mobile-first design approach to provide a premium user experience.
